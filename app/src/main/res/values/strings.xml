@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Curso Android</string>
+    <string name="action_settings">Configuração</string>
+    <string name="hint_usuario">Usuário</string>
+    <string name="hint_senha">Senha</string>
+    <string name="button_save">Salvar</string>
+    <string name="empty_not_saved">Nome do usuário é obrigatório.</string>
+    <string name="add_usuario">Adiciona usuário</string>
+</resources>
